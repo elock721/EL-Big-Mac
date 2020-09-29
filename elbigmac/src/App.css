@@ -28,8 +28,11 @@
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_92etL7WwHau7a94417oWmmuNs0kOYXg0Nw&usqp=CAU);
   color: black;
   background-color: white;
-  
+  text-align: center;
+}
 
+h1 {
+  text-align: center;
 }
 
 .App-link {
