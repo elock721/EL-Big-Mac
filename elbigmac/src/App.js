@@ -58,7 +58,6 @@ const App = () => {
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
     </Card.Text> */}
-    <Card.Link href="https://github.com/zelima/big-mac-index/blob/master/data/big-mac-index.csv" target="_blank">Big Mac Purchasing Parity Index</Card.Link>
   </Card.Body>
 </Card>
   <br></br>
@@ -70,6 +69,8 @@ const App = () => {
   <Card.Body>
   <Card.Title><h1>20 Big Macs</h1></Card.Title>
     <Card.Title><h1>(example)</h1></Card.Title>
+    <Card.Link href="https://github.com/zelima/big-mac-index/blob/master/data/big-mac-index.csv" target="_blank">Big Mac Purchasing Parity Index</Card.Link>
+
     {/* <Card.Text>
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
