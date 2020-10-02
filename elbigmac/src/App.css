@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
 .App {
   text-align: center;
 }
@@ -26,13 +29,25 @@
 
 .jumbotron {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_92etL7WwHau7a94417oWmmuNs0kOYXg0Nw&usqp=CAU);
-  color: black;
+  color: white;
   background-color: white;
   text-align: center;
 }
 
+#header {
+  font-size: 100px;
+}
+
 h1 {
   text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+
+}
+
+.card {
+  margin: 0;
+  left: 37%;
+  
 }
 
 .App-link {
