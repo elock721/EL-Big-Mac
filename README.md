@@ -13,3 +13,5 @@ You will also see any lint errors in the console.
 ## Screenshots
 
 ![Alt text](assets/bigmac.png "Main")
+
+## Instructions 
