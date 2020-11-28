@@ -10,7 +10,7 @@ import Card from "react-bootstrap/Card"
 import "./App.css";
 
 
-
+// data fetch 
 const App = () => {
   const [country, setCountry] = useState("");
   const [input, setInput] = useState("20");
